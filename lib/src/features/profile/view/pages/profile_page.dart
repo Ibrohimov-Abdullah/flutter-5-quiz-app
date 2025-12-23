@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:quiz_app_f4/src/features/profile/controllers/profile_page_controller.dart';
+import 'package:untitled5/src/features/profile/controllers/profile_page_controller.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});
